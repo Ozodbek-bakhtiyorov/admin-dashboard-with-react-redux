@@ -1,0 +1,20 @@
+[
+  {
+    "id": "#order1",
+    "customer": {
+      "name": "",
+      "location": "",
+      "isTopCustomer": ""
+    },
+    "orderedAt": "",
+    "products": [
+      {
+        "id":"",
+        "name": "",
+        "count": "",
+        "category": ""
+      }
+    ]
+
+  }
+]

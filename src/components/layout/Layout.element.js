@@ -1,0 +1,14 @@
+import styled from 'styled-components'
+export const Content = styled.div`
+  .layout{
+    color:var(--text-color);
+  }
+  .layout__content{
+    padding-left:var(--sidebar-width);
+    background-color:var(--second-bg);
+    min-height:100vh;
+  }
+  .layout__content-main{
+    padding: 30px;
+  }
+`;
